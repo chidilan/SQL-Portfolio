@@ -1,0 +1,6 @@
+*.mdf
+*.ldf
+config.json
+*.env
+*.csv
+
