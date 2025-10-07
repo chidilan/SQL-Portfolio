@@ -40,7 +40,7 @@ CREATE TABLE customers (
 <img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/4515109d-acb5-42b3-8f3f-771bfb6ed5bd" />
 
 
-That way, your `active_customers` view will work straight away.
+That way, the `active_customers` view will work straight away.
 
 ## **2. Basic View Creation**
 
